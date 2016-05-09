@@ -1,0 +1,8 @@
+E:\SocialClub\John.SocialClub\John.SocialClub.Data\bin\Debug\John.SocialClub.Data.dll.config
+E:\SocialClub\John.SocialClub\John.SocialClub.Data\bin\Debug\John.SocialClub.Data.dll
+E:\SocialClub\John.SocialClub\John.SocialClub.Data\bin\Debug\John.SocialClub.Data.pdb
+E:\SocialClub\John.SocialClub\John.SocialClub.Data\bin\Debug\EntityFramework.dll
+E:\SocialClub\John.SocialClub\John.SocialClub.Data\bin\Debug\EntityFramework.xml
+E:\SocialClub\John.SocialClub\John.SocialClub.Data\obj\Debug\John.SocialClub.Data.csprojResolveAssemblyReference.cache
+E:\SocialClub\John.SocialClub\John.SocialClub.Data\obj\Debug\John.SocialClub.Data.dll
+E:\SocialClub\John.SocialClub\John.SocialClub.Data\obj\Debug\John.SocialClub.Data.pdb

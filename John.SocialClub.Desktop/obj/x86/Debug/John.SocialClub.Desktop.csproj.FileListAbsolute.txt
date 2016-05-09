@@ -1,0 +1,15 @@
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\bin\Debug\John.SocialClub.Desktop.exe.config
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\bin\Debug\John.SocialClub.Desktop.exe
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\bin\Debug\John.SocialClub.Desktop.pdb
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\bin\Debug\John.SocialClub.Data.dll
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\bin\Debug\EntityFramework.dll
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\bin\Debug\John.SocialClub.Data.pdb
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\bin\Debug\EntityFramework.xml
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\obj\x86\Debug\John.SocialClub.Desktop.csprojResolveAssemblyReference.cache
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\obj\x86\Debug\John.SocialClub.Desktop.csproj.ResolveComReference.cache
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\obj\x86\Debug\John.SocialClub.Desktop.Forms.Membership.Manage.resources
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\obj\x86\Debug\John.SocialClub.Desktop.Login.resources
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\obj\x86\Debug\John.SocialClub.Desktop.Properties.Resources.resources
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\obj\x86\Debug\John.SocialClub.Desktop.csproj.GenerateResource.Cache
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\obj\x86\Debug\John.SocialClub.Desktop.exe
+E:\SocialClub\John.SocialClub\John.SocialClub.Desktop\obj\x86\Debug\John.SocialClub.Desktop.pdb
